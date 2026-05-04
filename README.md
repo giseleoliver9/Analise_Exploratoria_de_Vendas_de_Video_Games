@@ -1,21 +1,21 @@
-# 🎮 Análise Exploratória de Vendas de Video Games
+# Análise Exploratória de Vendas de Video Games
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 Este projeto tem como objetivo aplicar os fundamentos da Ciência de Dados, com foco prático na Análise Exploratória de Dados (EDA). Utilizando um dataset real sobre o mercado de games, a análise busca extrair insights, identificar padrões de vendas globais e compreender a relação entre o sucesso comercial dos jogos e suas avaliações.
 
-## 📊 Dataset
+## Dataset
 Os dados utilizados nesta análise são públicos e foram disponibilizados na plataforma Kaggle. O conjunto de dados contém informações detalhadas sobre vendas em diferentes regiões (América do Norte, Europa, Japão, etc.), além de notas da crítica especializada e dos próprios jogadores.
 
 * **Fonte dos dados:** [Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
 
-## 🛠️ Tecnologias e Bibliotecas
+## Tecnologias e Bibliotecas
 O projeto foi desenvolvido em **Python** (no ambiente do Google Colab), utilizando o ecossistema principal de Análise de Dados:
 * **Pandas:** Para estruturação, manipulação e limpeza dos dados.
 * **NumPy:** Para cálculos avançados e operações matemáticas.
 * **Matplotlib:** Para a construção da base visual dos gráficos.
 * **Seaborn:** Para a criação de visualizações estatísticas atraentes e informativas.
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 Durante o desenvolvimento desta EDA, foram colocados em prática os seguintes conceitos:
 * Exploração e tratamento de **variáveis categóricas** e numéricas.
 * Análise da distribuição de dados.
