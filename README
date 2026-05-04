@@ -19,9 +19,4 @@ O projeto foi desenvolvido em **Python** (no ambiente do Google Colab), utilizan
 Durante o desenvolvimento desta EDA, foram colocados em prática os seguintes conceitos:
 * Exploração e tratamento de **variáveis categóricas** e numéricas.
 * Análise da distribuição de dados.
-* Construção e interpretação de visualizações gráficas essenciais, com destaque para o uso de **Histogramas** e **Boxplots** para identificação de tendências e *outliers*.
-
-## 🚀 Visualização
-Você pode conferir o notebook completo e os resultados da análise clicando no link abaixo:
-
-➡️ [Acessar o Notebook da Análise Exploratória](https://github.com/giseleoliver9/Analise_Exploratoria_de_Vendas_de_Video_Games/blob/main/An%C3%A1lise_Explorat%C3%B3ria_de_Vendas_de_Video_Games.ipynb)
+* Construção e interpretação de visualizações gráficas essenciais, com destaque para o uso de **Histogramas** e **Boxplots** para identificação de tendências e *outliers*
